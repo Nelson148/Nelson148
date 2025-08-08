@@ -11,7 +11,7 @@ Fork on GitHub7879
 
 - 🌱 Estou atualmente estudando **java,python,html,java script,css,mysql**
 
-- 👯 Estou procurando vagas de estagio **pricipalmente na area de html**
+- 👯 Estou procurando vagas de estagio **pricipalmente na area de desenvolvimento web**
 
 - 📫 Você pode me encontrar **alvaronelsoncd123@gmail.com**
 
