@@ -1,5 +1,4 @@
 <h1 align="center">Olá 👋, Eu sou Nelson</h1>
-<h3 align="center">Um estudante de ADS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nelson148&label=Profile%20views&color=0e75b6&style=flat" alt="nelson148" /> </p>
 
